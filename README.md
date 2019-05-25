@@ -1,5 +1,5 @@
 # 3DPrinterCostCalculate
 
 
-### Ekran Görüntüleri:
+### Ekran Görüntüsü:
 ![](3DPrinterCostCalculate.PNG)
